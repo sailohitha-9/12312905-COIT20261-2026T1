@@ -1,3 +1,7 @@
-## Week 2 Tutorial
+# Week 2 Tutorial
 
-# Task 1 
+## Task 1- Outputs
+
+- Exported Project file:
+  [file](.imagges/SettingIP-12312905.gns3project)
+  
