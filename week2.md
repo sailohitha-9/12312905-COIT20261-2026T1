@@ -17,4 +17,11 @@
 
 ## Task 2- Outputs
 
-- 
+- Screenshot of the console of one host showing the ping command
+   - ![Screenshot](/images/Ping-Basics-12312905-simple.png)
+
+- Screenshot showing the ping command (and output) to a wrong IP address
+  - ![Screenshot](/images/Ping-Basics-12312905-error.png)
+ 
+- Screenshot showing the ping command (and output) when limiting the count, setting the data size and interval to non-default values
+  - ![Screenshot](/images/Ping-Basics-12312905-options.png)
