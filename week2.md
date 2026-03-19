@@ -19,6 +19,7 @@
 
 - Screenshot of the console of one host showing the ping command
    - ![Screenshot](/images/Ping-Basics-12312905-simple.png)
+   - Ping Command used- ping 10.101.1.2
 
 - Screenshot showing the ping command (and output) to a wrong IP address
   - ![Screenshot](/images/Ping-Basics-12312905-error.png)
