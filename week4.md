@@ -21,13 +21,15 @@
 ## Task 2: Dynamic Routing with OSPF
 
 - Exported project :
+  - [file](/images/OSPF-Basics-12312905.gns3project)
 
 - Screenshot of the network:
-
+  - ![Screenshot](/images/OSPF-Basics-12312905-network.png)
 - Output of showing neigbour routers of FRR1:
-
+  - ![Screenshot](/images/neighbourRouters.png)
 - Output showing routing table for two routers:
-
+  
 - A table that summarises the routers for all routers:
 
 - Output of traceroute commands before and after the link is disconnected:
+ - ![Screenshot](/images/traceroute.png)
