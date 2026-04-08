@@ -28,8 +28,8 @@
 - Output of showing neigbour routers of FRR1:
   - ![Screenshot](/images/neighbourRouters.png)
 - Output showing routing table for two routers:
-  
+   - ![Screenshot](/images/RoutingTable.png)
 - A table that summarises the routers for all routers:
-
+  - ![Screenshot](/images/task2.png)
 - Output of traceroute commands before and after the link is disconnected:
- - ![Screenshot](/images/traceroute.png)
+  - ![Screenshot](/images/traceroute.png)
