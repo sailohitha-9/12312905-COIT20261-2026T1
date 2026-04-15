@@ -3,7 +3,7 @@
 ## Task 1- Outputs
 
 - Exported Project file:
-  - [file](/imagges/SettingIP-12312905.gns3project)
+  - [file](/images/SettingIP-12312905.gns3project)
 
 - Screenshot of the Network:
    - ![Screenshot](/images/SettingIP-12312905-network.png)
