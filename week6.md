@@ -23,4 +23,4 @@
    -![Screenshot](/images/router1.png)
 
 - Screenshot of a succesful ping from a host one one subnet to a host on the other subnet.
-   -![Screenshot](/images/ 
+   -![Screenshot](/images/Default-Gateway-12312905-ping.png)
