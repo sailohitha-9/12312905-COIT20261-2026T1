@@ -26,3 +26,7 @@
  
 - Screenshot showing the ping command (and output) when limiting the count, setting the data size and interval to non-default values
   - ![Screenshot](/images/Ping-Basics-12312905-options.png)
+
+### Reflection
+
+- This week I learned how to assign IPv4 addresses to multiple hosts and verify the configuration using both `ip addr show` and ping tests. The successful ping results confirmed that the hosts were communicating on the same network, while the failed ping to the wrong IP showed that connectivity depends on correct addressing. I also learned the importance of checking interface output carefully, because a small configuration mistake can affect the entire network. Next time, I would document each step more clearly while building the topology so my work is easier to review.
