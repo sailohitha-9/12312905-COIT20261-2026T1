@@ -33,3 +33,7 @@
   - ![Screenshot](/images/task2.png)
 - Output of traceroute commands before and after the link is disconnected:
   - ![Screenshot](/images/traceroute.png)
+ 
+### Reflection
+
+- In this week’s tutorial, I learned how dynamic routing works using OSPF and how routers share information to build routing tables automatically. The neighbour and routing table outputs helped me confirm that the routers had established adjacencies and were learning paths correctly. The traceroute results were especially useful because they showed how the traffic path changed after a link was disconnected, which helped me understand route recalculation and convergence. I also learned that when a link fails, OSPF can find an alternate route if one exists, which makes the network more resilient. One challenge was checking that every interface and IP address was set correctly, because a small mistake could stop the routing from working. By comparing the routing table, neighbour status, and ping results, I could verify that the network was behaving as expected.
